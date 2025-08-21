@@ -1,7 +1,11 @@
 ## Olá, eu sou o Henrique Ferreira, desenvolvedor Java Back-End!
 
--  Hoje atuo como Back-End Java, domínio em Programação Orientada a Objetos, Spring Framework, JPA, Validation, Swagger, MVC, API RESTful, Banco de Dados SQL e Non Sql, Docker.
--  Aprendendo microsserviços Kafka.
+- 💼 Atualmente atuando como Back-End Java
+- 🧠 Domínio em Programação Orientada a Objetos, Spring Framework, JPA, Validation, Swagger, MVC
+- 🔗 Experiência com APIs RESTful, bancos de dados SQL (Oracle, MySQL) e NoSQL (MongoDB)
+- 🐳 Contêinerização com Docker
+- 📡 Aprendendo microsserviços com Kafka
+- 📚 Foco em boas práticas, testes automatizados e Clean Code
 ##
 
 <div style="display: inline_block"><br>
