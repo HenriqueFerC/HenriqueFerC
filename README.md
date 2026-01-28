@@ -2,10 +2,10 @@
 
 - 💼 Atualmente atuando como Back-End Java
 - 🧠 Domínio em Programação Orientada a Objetos, Spring Framework, JPA, Validation, Swagger, MVC
-- 🔗 Experiência com APIs RESTful, bancos de dados SQL (Oracle, MySQL) e NoSQL (MongoDB)
+- 🔗 Experiência com APIs RESTful, bancos de dados SQL (Oracle, MySQL, Postgres) e NoSQL (MongoDB)
 - 🐳 Contêinerização com Docker
-- 📡 Aprendendo microsserviços com Kafka
-- 📚 Foco em boas práticas, testes automatizados e Clean Code
+- 📡Microsserviços com Kafka
+- 📚 Foco em boas práticas, testes automatizados, Clean Code, Testes unitários com JUnit.
 ##
 
 <div style="display: inline_block"><br>
