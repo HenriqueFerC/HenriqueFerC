@@ -4,7 +4,7 @@
 - 🧠 Domínio em Programação Orientada a Objetos, Spring Framework, JPA, Validation, Swagger, MVC, Spring Security
 - 🔗 Experiência com APIs RESTful, bancos de dados SQL (Oracle, MySQL, Postgres) e NoSQL (MongoDB)
 - 🐳 Contêinerização com Docker, docker compose
-- 📡Microsserviços com Kafka e OpenFiegn
+- 📡 Microsserviços com Kafka e OpenFeign
 - 📚 Foco em boas práticas, Clean Code, SOLID, Design Patterns, Testes unitários com JUnit e Mockito, testes de integração com testcontainers.
 ##
 
